@@ -1,0 +1,18 @@
+{
+  "Engineering Mathematics":{"chapters":["Linear Algebra","Calculus","Differential Equations","Probability & Statistics","Numerical Methods","Complex Variables","Vector Calculus"]},
+  "Engineering Mechanics":{"chapters":["Statics","Dynamics","Kinematics","Kinetics","Friction","Work-Energy","Impulse-Momentum"]},
+  "Strength of Materials":{"chapters":["Stress & Strain","Bending","Torsion","Deflection","Columns","Failure Theories","Mohr's Circle"]},
+  "Theory of Machines & Vibrations":{"chapters":["Mechanisms","Gears","Cams","Flywheels & Governors","Balancing","Vibrations"]},
+  "Fluid Mechanics":{"chapters":["Fluid Properties","Fluid Statics","Kinematics","Flow Through Pipes","Dimensional Analysis","Boundary Layers","Turbomachinery"]},
+  "Thermodynamics":{"chapters":["First Law","Second Law","Properties of Pure Substances","Power Cycles","Gas Power Cycles","Psychrometrics"]},
+  "Heat Transfer":{"chapters":["Conduction","Convection","Radiation","Heat Exchangers","Boiling & Condensation","Fins"]},
+  "Manufacturing":{"chapters":["Casting","Metal Forming","Machining","Welding","Metrology","CNC & Non-Traditional Manufacturing"]},
+  "Industrial Engineering":{"chapters":["Operations Research","Inventory","Queuing","Forecasting","Scheduling","Quality","Production Planning"]},
+  "Machine Design":{"chapters":["Shafts","Bearings","Gears","Springs","Joints","Pressure Vessels","Design Against Failure"]},
+  "Materials Science":{"chapters":["Crystal Structure","Phase Diagrams","Heat Treatment","Mechanical Properties","Failure","Composites"]},
+  "IC Engines":{"chapters":["SI Engines","CI Engines","Combustion","Performance","Emissions"]},
+  "Power Engineering":{"chapters":["Boilers","Steam Turbines","Condensers","Gas Turbines","Hydropower","Nuclear Power"]},
+  "Refrigeration & Air Conditioning":{"chapters":["Vapour Compression","Vapour Absorption","Psychrometry","Air Conditioning"]},
+  "General Aptitude":{"chapters":["Verbal Ability","Quantitative Aptitude","Logical Reasoning"]},
+  "Other / Unclassified":{"chapters":[]}
+}
