@@ -1,0 +1,17 @@
+[
+  {
+    "id": "sample-gate-me-001",
+    "year": 2024,
+    "source": "sample-data",
+    "page": 1,
+    "number": "1",
+    "subject": "Engineering Mechanics",
+    "subtopic": "Statics",
+    "classification_confidence": 1,
+    "type": "MCQ",
+    "question": "Sample placeholder question. Run the ingestion pipeline with your permitted GATE ME source PDFs to populate the complete bank.",
+    "options": {"A": "Option A", "B": "Option B", "C": "Option C", "D": "Option D"},
+    "answer": "A",
+    "solution": "Sample solution placeholder. Full worked solutions require validated answer keys and solution authoring."
+  }
+]
